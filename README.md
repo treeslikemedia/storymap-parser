@@ -1,3 +1,6 @@
+Add this foldet to the path (and/or the screenplay_pdf_to_json_storymap dir idk) to Python. PYTHONPATH=$PYTHONPATH:/Users/bsmith/Desktop/Projects/storymap-parser
+in root folder run poetry shell. then cd into screenplay_pdf_to_json_storymap and run python3 convert.py -s /Users/bsmith/Downloads/badnews.pdf
+
 # Screenplay Parser
 
 > Parse PDF screenplay into rich JSON format
