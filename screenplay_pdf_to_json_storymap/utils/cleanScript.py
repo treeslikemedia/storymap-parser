@@ -6,7 +6,7 @@ def cleanScript(script, includePageNumber):
         if not includePageNumber:
             del page["page"]
         for i, section in enumerate(page["content"]):
-            for j, scene in enumerate(section["scene"]):
+            for j, scene in enumerate(section["parts"]):
                 if type(scene["content"]) is list:
                     for line in scene["content"]:
                         if "x" in line:

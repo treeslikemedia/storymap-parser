@@ -1,14 +1,15 @@
 let rawData = false;
-fetch('/result.json')
+fetch('/badnews.json')
   .then(response => response.json())
   .then(data => {
-    window.scenes = processScenes(data);
+    console.log('data', data);
+    const scenes = processScript(data);
   })
   .catch(error => {
     console.error(error);
   });
 
-function processScenes(data) {
+function processScript(data) {
     let scenes = prepareScenes(data);
     scenes = stitchScenes(scenes);
     scenes.forEach(scene => {
@@ -17,9 +18,13 @@ function processScenes(data) {
     })
     return scenes;
 }
+
+
 function writeScene(scene, format) {
         let script = processHeader(scene);
-        script += scene.scene ? scene.scene.forEach(part => processPart(part, format)) : 'nothing is real';
+        console.log('scene', scene);
+        const parts = scene.parts ? scene.parts.map(part => processPart(part, format)).join('') : '';
+        script += parts;    
         return script;
     }
 
@@ -30,12 +35,14 @@ function writeScene(scene, format) {
     function prepareScenes(data) {
         let pageNum = 0;
         let scenes = [];
-        data.forEach(scene => {
+        data.forEach(page => {
+            page.content.forEach(scene => {
                 if(scene.scene_number) {
                     scene.pages = [];
                     scene.pages.push(pageNum);
                     scenes.push(scene);
                 }
+            });
             pageNum++;
         });
         scenes = stitchScenes(scenes);
@@ -49,15 +56,17 @@ function writeScene(scene, format) {
         scenes.forEach(scene => {
             if(scene.scene_number) {
                 let found = false;
+                //Search existing scenes for the same scene number...
                 uniqueScenes.forEach(currentScene => {
-                    if(currentScene.scene_number === scene.scene_number && currentScene.parts) {
+                    //If found, append content to that scene.
+                    if(currentScene.scene_number === scene.scene_number) {
                         found = true;
                         currentScene.pages = [...currentScene.pages, ...scene.pages];
-                        currentScene.scene = [...currentScene.scene, ...scene.scene];
+                        currentScene.parts = currentScene.parts ? [...currentScene.parts, ...scene.parts] : scene.parts;
                     }
                 });
                 if(!found) {
-                    uniqueScenes = [...uniqueScenes, scene];
+                    uniqueScenes.push(scene);
                 }
             }
         }
@@ -66,29 +75,34 @@ function writeScene(scene, format) {
     }
 
     function processHeader(scene) {
-        let processed = scene.scene_info && `${scene.scene_info.region} ${scene.scene_info.location}`;
+        let processed = scene.scene_info && `
+        ${scene.scene_info.region} ${scene.scene_info.location}`;
         if(scene.scene_info.time) scene.scene_info.time.forEach(time => processed += ` - ${time}`);
         return processed;
     }
     function processAction(lines, format) {
         let processed = '';
         if(format === 'fountain') {
-            lines.forEach(line => processed += `${line.text}`);
+            lines.forEach(line => processed += `
+            ${line.text}`);
         } else if(format === 'raw') {
-            lines.forEach(line => processed += `${line.text}`);
+            lines.forEach(line => processed += `
+            ${line.text}`);
         }
         return processed;
     }
 
     function processDialogue(content, format) {
-        const character = content.character + (content.modifier && ` (${content.modifier})`);
+        let character = `
+        ${content.character}`;
+        character += content.modifier ? ` (${content.modifier})` : '';
         const dialogue = content.dialogue;
         let processed = '';
         if(format === 'fountain') {
-            processed += `${character}
-            `;
+            processed += `${character}`;
             dialogue.forEach(line => {
-                processed += `\n${line}`;
+                processed += `
+                ${line}`;
             });
         }  else if(format === 'raw') {
             processed += `${character.character}${character.modifier && ` (${character.modifier})`}: ${dialogue.join(' ')}`;
@@ -103,3 +117,12 @@ function writeScene(scene, format) {
     }
 
 
+
+    function writeScript(scenes) {
+        let script = '';
+        scenes.map(scene => {
+            script += `
+            ${scene.fountain}`
+        });
+        return script;
+    }

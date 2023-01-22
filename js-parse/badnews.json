@@ -1,0 +1,3134 @@
+[
+    {
+        "page": 0,
+        "content": [
+            {
+                "x": 72,
+                "y": 237,
+                "text": "BAD NEWS."
+            },
+            {
+                "x": 271,
+                "y": 309,
+                "text": "Written by"
+            },
+            {
+                "x": 236,
+                "y": 345,
+                "text": "Benjamin Christopher"
+            },
+            {
+                "x": 72,
+                "y": 693,
+                "text": "Kaplan\/Perrone Entertainment"
+            },
+            {
+                "x": 72,
+                "y": 705,
+                "text": "Aaron Kaplan | Kaplan@kaplanperrone.com"
+            },
+            {
+                "x": 72,
+                "y": 717,
+                "text": "Ben Neumann | Neumann@kaplanperrone.com"
+            }
+        ],
+        "type": "FIRST_PAGES"
+    },
+    {
+        "content": [
+            {
+                "scene_number": 0,
+                "scene_info": null,
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "BLACK. Stars appear one by one. Eerie, foreboding music."
+                            },
+                            {
+                                "text": "The TITLE fades in slowly: “BAD NEWS”"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 1,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "GORGE",
+                    "time": [
+                        "NIGHT"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "MATTY RAY, 30’s, stares out at a beautiful gorge. At his side is MOLLY, 30’s, emotionally grounded but physically deteriorating. Their eyes are red from crying."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MOLLY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Promise me something."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Anything."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MOLLY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Promise me you’ll never eat meat."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty laughs."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Can I tell you a secret? I love eating meat."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MOLLY",
+                            "modifier": null,
+                            "dialogue": [
+                                "No!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Yeah. I really miss it. ",
+                                "(smiles)",
+                                " But I won’t eat it. I promise."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MOLLY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I want you to live a good life."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I don’t want to. Not without you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She smiles sadly."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MOLLY",
+                            "modifier": null,
+                            "dialogue": [
+                                "You don’t have a choice."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "TRANSITION",
+                        "content": {
+                            "text": "CUT TO BLACK.",
+                            "metadata": {
+                                "x": 420,
+                                "y": 624
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "scene_number": 2,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "BEDROOM",
+                    "time": [
+                        "MORNING"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty wakes up in bed. Alone. He has a full beard. Years have passed. He looks worse for the wear."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 3,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "BACK YARD",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty toils in the sun, shoveling manure from one bin to another in a complex composting system."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 4,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "BATHROOM",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "BLACK WATER runs down the drain as Matty vigorously washes his soiled hands."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 5,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "LIVING ROOM",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "What looks like a small altar. There’s a few pictures of Matty and Molly, and a decorative urn."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 6,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "KITCHEN",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty fills up a flask with bourbon."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 7,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "PICKUP TRUCK",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty drives, swigging from his flask. He scans the radio dial on his truck’s stereo. There’s STATIC on every channel. That’s weird..."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 8,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "TOWN",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "A very small, rural town. Charming and quaint in the way that a gold rush ghost town is charming and quaint."
+                            },
+                            {
+                                "text": "Matty’s pickup truck swerves into the general vicinity of a parking spot, jutting out of the lines haphazardly."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 9,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "DINER",
+                    "time": [
+                        "SAME"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty stands outside, smoking a cigarette, looking out at the placid town. He teeters a little bit but holds steady."
+                            },
+                            {
+                                "text": "The door to the diner opens and LILITH (50’s, no-nonsense) comes out holding a takeout bag."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "You know, if you took a shower once in a while, I’d consider letting you back inside."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I like it better on the outside."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 9,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "DINER",
+                    "time": [
+                        "SAME"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "There’s less offensive ways to keep people at arms length than smelling like shit all the time."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He flicks his cigarette out into the road."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I’ll take your word for it."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She hands him the takeout bag."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "One veggie burger. Tastes like cardboard, just the way you like it."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He nods appreciatively. Lilith walks back inside."
+                            },
+                            {
+                                "text": "Matty starts across the street, toward his truck. Suddenly a HUGE SHADOW passes over him, eclipsing the sun for a moment."
+                            },
+                            {
+                                "text": "He stops dead in his tracks. Very, very slowly, he turns around. Almost as if against his better judgement."
+                            },
+                            {
+                                "text": "In his eyes: Awe. Disbelief. Terror. Hanging in the sky is a MASSIVE, BEAUTIFUL STARSHIP. A UFO."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 10,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "SAME"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Lilith wipes down a table. A LOW, SONOROUS hornlike sound SHAKES the sky, rattling the windows."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 11,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "DINER",
+                    "time": [
+                        "SAME"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Lilith pokes her head out of the diner. Her jaw drops at the site of the UFO, and Matty walking towards it, looking up as if in a trance."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Matty!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Another LOUD, HORNLIKE SOUND. Matty is ENGULFED IN LIGHT."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 12,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "CONTINUOUS"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "A large, white, cavernous room. There’s no light source, but it’s perfectly lit. The room is a white void. Standing in the center of it, smiling, is THE VISITOR."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 12,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "CONTINUOUS"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He looks human, though he’s in an oddly formal outfit. His mannerisms are at times a bit robotic. He has a personality, it’s just not a human one."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR ",
+                            "modifier": "V.O.",
+                            "dialogue": [
+                                "Welcome."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty looks around the void, still holding his takeout bag."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR ",
+                            "modifier": "V.O.",
+                            "dialogue": [
+                                "It’s a pleasure to meet you, Matthew Ray."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Get out of my head!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Finally The Visitor speaks out loud."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "You find telepathy unnerving. I apologize."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Where am I?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "This is my ship. Unfortunately for you, the people of Earth are thousands of years behind schedule in their evolution. I am here to speed along the process for you and free you from the illusion that imprisons you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty looks like a cornered animal."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "This is a dream. This isn’t real."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Precisely right. The dream of duality. All beings are one being. All things are one thing. Allow me to show you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor reaches out, extending his finger towards Matty."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Don’t even think about touching me-"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor’s finger PRESSES into Matty’s forehead."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TRANSITION",
+                        "content": {
+                            "text": "SMASH TO:",
+                            "metadata": {
+                                "x": 448,
+                                "y": 708
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 12,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "CONTINUOUS"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "A QUICK SERIES OF IMAGES:"
+                            },
+                            {
+                                "text": "-Matty in bed, holding Molly. The definition of their bodies vibrates and we see them for a moment as two identical cores of energy, pulsating light merging into one."
+                            },
+                            {
+                                "text": "-Matty and Lilith stand facing each other. One morphs into the other. And back. They merge into a ball of light."
+                            },
+                            {
+                                "text": "-A crowd of people walking into a field, as if in a daze."
+                            },
+                            {
+                                "text": "-A root system, merging into a single field of energy."
+                            },
+                            {
+                                "text": "-A pile of BODIES laying in a field."
+                            },
+                            {
+                                "text": "-Outer space. A trail of light connecting all the planets in the solar system in a glowing web of energy."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 13,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty SNAPS back to."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Now do you see?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty PUKES all over the floor. The Visitor looks unfazed."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "(panting)",
+                                " Everyone was me. And I was them."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "That’s correct. To others in the galaxy, this truth is self evident. I am here to free the people of your town from this illusion. Think of it as a pilot program. If all goes well, we may be able to save your species."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Save us from what?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Yourselves, of course. I have chosen you, Matthew Ray, as my ambassador."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "And you’re gonna, what...?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Return you to your source."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 13,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "You’re going to kill us."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "The ego is not real. You cannot kill something that does not exist."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "scene_number": 14,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The town is gathering in the diner. Matty steps on a chair at the front of the room. An awkward pause."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "So... Bad news. Apparently all of this is an illusion. And it’s coming to an end. I’m sorry."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty gets off the chair and starts walking away. The room breaks out into a dozen voices shouting at once. Lilith steps in Matty’s path."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Where do you think you’re going? Get back up there."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty does, reluctantly."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Uh, so, this man, this... being... he showed me. The lives we’re living here- they’re based on a lie. None of this is real. We just can’t see it because our evolution has been stunted."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #1",
+                            "modifier": null,
+                            "dialogue": [
+                                "(disgusted)",
+                                " Evolution?!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #2",
+                            "modifier": null,
+                            "dialogue": [
+                                "What’s gonna happen to us?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Life as we know will be over. But we’ll return to our natural state, which is sort of like, I don’t know, unconditional love."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #2",
+                            "modifier": null,
+                            "dialogue": [
+                                "Why doesn’t this guy come down here and tell us himself?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 14,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "First of all, he’s not a guy. Guys don’t travel in flying saucers. And second of all... Apparently he wants me to be your ambassador."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "A MURMUR of disapproval ripples through the crowd. DAVID, a burly line cook, steps forward."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "DAVID",
+                            "modifier": null,
+                            "dialogue": [
+                                "No offense Matty, but you’re not a very stable person and I don’t feel comfortable with you representing us. ",
+                                "(to the group)",
+                                " He nearly killed Duke last summer. Now he’s s’posed to be our leader?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I’m not you’re leader. I’m just a messenger. And I know this is an unpopular opinion, but Duke had it coming."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty looks around at the scared, angry townspeople."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Look, I don’t think it matters if the ambassador is me or the next guy. The end result is the same. Life as we know it is over."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "scene_number": 15,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty has a clipboard in his hand."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Okay. We have questions."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "A series of quick cuts from the DINER to the STARSHIP."
+                            },
+                            {
+                                "text": "DINER:"
+                            },
+                            {
+                                "text": "People in the diner shout out questions to Matty."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #2",
+                            "modifier": null,
+                            "dialogue": [
+                                "Do we have a choice in this?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "STARSHIP:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Choice is an illusion."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 15,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "DINER:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #2",
+                            "modifier": null,
+                            "dialogue": [
+                                "What the hell does that mean?!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I think it means No."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #1",
+                            "modifier": null,
+                            "dialogue": [
+                                "Ask him about aliens. Ask if they’re real."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "STARSHIP:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Are aliens real?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor gives a disappointed look, bordering on contempt."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "I promised I’d ask. ",
+                                "(BEAT)",
+                                " I’m just gonna put down yes."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He looks one more time to the Visitor for confirmation but receives nothing. Jotting down in his notebook-"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "(to himself)",
+                                " I’m just gonna put down yes."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "DINER:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #2",
+                            "modifier": null,
+                            "dialogue": [
+                                "Do we go to heaven when we die?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "STARSHIP:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Only in the sense that heaven is a word for something you don’t understand."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "DINER:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #1",
+                            "modifier": null,
+                            "dialogue": [
+                                "There’s six people in the county jail right now, some for violent crimes. Are they going to heaven?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "STARSHIP:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Yes."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 15,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Really? So nothing we do on earth has consequences."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Misguided people do misguided things. The more horrifying and disturbing their actions- the more entrenched in the illusion they are. The ego sees acts of hatred and it demands punishment. But the ego is wrong. The ego is always wrong. The illusion is the punishment. Leaving the illusion is the reward. And the reward is the same for everybody. Because everybody is the same."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty writes the answer down, talking aloud as he does:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "“Bad people go to heaven too.”"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor looks unimpressed. Matty checks his notes. Most of the questions have Y\/N afterwards with “N” circled. But there’s a few write-in answers:"
+                            },
+                            {
+                                "text": "“What’s the meaning of life? - You’ll see.”"
+                            },
+                            {
+                                "text": "“What’s your favorite comfort food? - Chicken Gumbo.”"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Let’s see. Heaven. Meaning of life. Oh, right. People want you to turn the phones and cars back on."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "That’s not going to happen."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Can you at least make the TVs work again? Mrs. Woodley can’t watch Jeopardy. It would be... better for everyone if she could watch Jeopardy."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty sighs, looks the Visitor up and down."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "You’re kind of an asshole, aren’t you?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 15,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "DINER:"
+                            },
+                            {
+                                "text": "Matty addresses the small crowd."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Negotiations are ongoing. It’s tense at times. But progress is being made."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "STARSHIP:"
+                            },
+                            {
+                                "text": "Matty and the Visitor are playing Connect 4. Matty puts his first checker down."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "You won."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "We just started."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "But you’re going to win."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "You can see that? If you can see it, can’t you change it? ",
+                                "(putting down his checkers)",
+                                " This isn’t fun. None of this is fun."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "We could play Sorry."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Enough with the games. People want to know how much time they have left. Rocko’s planning a barbecue but no one will commit cause they’re afraid you’re gonna kill us at any moment."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "The answer is no. The time is nearly upon us. The reintegration has begun."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "END MONTAGE."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 16,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty walks up to the front of the room. People are anxiously awaiting. He takes a deep breath."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 16,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Apparently the reintegration process is beginning. It’ll take effect with the new moon."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "TOWNIE #2",
+                            "modifier": null,
+                            "dialogue": [
+                                "That’s less than two days!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "JENNY, a kind, heavyset woman, begins weeping. Through tears:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "JENNY",
+                            "modifier": null,
+                            "dialogue": [
+                                "What’s gonna happen to my family? My babies. I can’t lose them."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Hey, hey. You’re not gonna lose anybody. No one’s gonna lose anyone. We’ll be together."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Jenny’s cries turn to sniffles. She looks up at Matty, scared, vulnerable."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Your family is going to be okay. I promise."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "scene_number": 17,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP - EVENING",
+                    "time": null
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty and The Visitor are lounging around. Matty lays back, propped up on his elbows. The Visitor eats chicken wings, licking buffalo sauce off his fingers."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Am I gonna forget her? Molly? When you showed me the other side, I saw her. But everything bled together. Will she be there? Will I remember her?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Why does that matter?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty thinks about it. How do I say this?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "She’s been gone for years and I can still barely get out of bed in the morning. The only reason I do is because I can’t sit there with my thoughts anymore. And the worst part is- no matter how much I remember, I can feel myself starting to forget. Little things. ",
+                                "(MORE)"
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 17,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP - EVENING",
+                    "time": null
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Her nicknames for me. The noises she’d make when I’d rub her feet, like she was in pain. But if I stopped she would say, “Keep going,” cause it was the good kind of pain."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Good... pain?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Yeah. That’s kind of what the memories are. Good pain. Because it hurts to think about. But if I lost them, if I just let them slip away... I’d have nothing left."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "May I make an observation?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Sure. Why not."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "You cling to your grief as though it sustained you. But nothing could be further from the truth. Your sentimentality is what holds you back."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty takes this in. He doesn’t like it."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 18,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "NIGHT"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty walks in the diner. Lilith is mopping the floor, in a sort of focused, angry trance."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "How about one last veggie burger? For old time’s sake."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Kitchen’s closed."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "You know you don’t need to do that anymore. Mopping the floor."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "I find it soothing."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She puts down the mop and looks at him angrily."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 18,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "NIGHT"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Did you even try to stop it?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "What do you mean? What do you want me to do? I’m powerless here."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She just stares at him."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "It’s gonna be okay. I saw her, Lil."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "You saw who?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He doesn’t respond, a little ashamed he let that slip out. A look of realization and disappointment washes over Lilith."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Well now we know why he chose you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "What’s that supposed to mean?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "It means the last two years you’ve walked around like a man with a death wish. You know Molly was like a little sister to me. I was grieving too. We all were."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "It was a little different for me."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Because you pushed us all away and let your life crumble to dust like shit in the sun. That’s why he chose you, Matty. Cause you have nothing to live for."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Oh and you do? Like what? Mopping the floor? Fucking... sunsets?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Yeah. Mopping the floor and fucking sunsets. And last I checked, no one had the right to take that away from me. Shame on you, Matty Ray."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She throws the mop down and walks out of the room."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 19,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "MATTY’S HOUSE",
+                    "time": [
+                        "NIGHT"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty sits on his couch, just staring at the little altar for Molly in the corner of the room."
+                            },
+                            {
+                                "text": "There’s a knock on the door. He gets up and opens it."
+                            },
+                            {
+                                "text": "Standing in the doorway is Jenny, holding a fresh pie."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "JENNY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I wanted to thank you for all you’ve done for us. For representing us up there. I know you’ve been through a lot. But we appreciate you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She holds out the pie."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "JENNY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "I bet they don’t have pies like this where we’re going."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty takes the pie, smiling."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "No one has pies like yours, Jenny. Thank you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "JENNY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Goodnight."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty closes the door. He walks back over to the couch and sits down, holding the pie, staring at the urn on the altar."
+                            },
+                            {
+                                "text": "A FLASH of an image from Matty’s first UFO experience: A pile of bodies lying in the field. Another FLASH: Closer. The bodies belong to the town’s people. Among them, Jenny."
+                            },
+                            {
+                                "text": "Matthew looks like he’s going to be sick."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 20,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor frowns at Matty."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "I don’t understand."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "You said it’s my job to represent them, and that’s what I’m doing."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "It’s your job to make them see."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 20,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Well I don’t know what to tell you. They don’t want to see. They don’t want to go."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "And what do you want? If it were up to you?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Is it up to me?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor just stares at him. Matty thinks it over, long and hard. Finally Matty shakes his head."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "I’m sorry."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Suddenly the Visitor looks pissed."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "What is it with you humans?! We’ve tried so hard with you! The pyramids. The dolphins. Nothing gets through to you!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Wait, what about the dolphins?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Your species won’t make it. You know that, don’t you? This is your last chance."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty doesn’t say anything. The Visitor gets a grip on himself."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Once the reintegration process has started, there’s only one way to stop it. But it’s primitive. It’s not how we like to do things anymore."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "What is it?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor doesn’t even want to say it."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "A sacrifice."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 20,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "A sacrifice? Like a human sacrifice?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "The energy release can be used as a conduit to subvert the reintegration. But it can’t just be anybody. You’re the one I chose for this. So it would have to be you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "This sinks in slowly."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Well I didn’t see that coming."
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "scene_number": 21,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "TOWN",
+                    "time": [
+                        "DUSK"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Starship hangs over the town, lit up like a Christmas tree in the fading dusk."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 22,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "NIGHT"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Candles lit in a large circle on the floor. In the center, Matty lays on his back. Lilith kneels over his body, a giant BUTCHER KNIFE poised over Matty’s heart."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "I really don’t want to do this."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "You sure? Cause you sort of jumped at the opportunity."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "What if the knife gets stuck in your sternum?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Well, that would be bad, Lil. Maybe David should it."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "In the corner of the room, David shakes his head."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "DAVID",
+                            "modifier": null,
+                            "dialogue": [
+                                "I don’t want any part of this."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I’m trying to save your lives. If you want to live, this is the only way."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 22,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "DINER",
+                    "time": [
+                        "NIGHT"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "I can do it. I can do it."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Please make it quick."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Well that’s why I’m worried about it getting stuck in your sternum."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "And I share your concern."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She takes a deep breath. She holds the knife up, her hands shaking a little, about to bring it down..."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Are you ready?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Just do it!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Suddenly- A LOW, LOUD HORNLIKE SOUND. Lilith is so startled she drops the knife. It falls, LODGING into Matty’s sternum."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Jesus Christ!"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty sits up, the tip of the knife jutting out of him. He pulls it out as BRIGHT LIGHT OVERTAKES THE DINER."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "scene_number": 23,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "SAME"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty’s suddenly in the Starship with the Visitor. He rubs his chest, pained. There’s a small blood stain. Not too bad."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "What do you think you’re doing?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "They were going to sacrifice me. Like you said."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "That was not a sacrifice."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Why the hell not? Were we supposed to burn sage or something?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Killing you wouldn’t be a sacrifice, because you want to die."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 23,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "SAME"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "No I don’t."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "Yes Mathew. You do."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty looks about ready to cry from frustration."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Well what the hell do you want, then?! You said it had to be me. If killing me isn’t going to do it, what will? You want the deed to my house?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "It can only be a sacrifice if it’s something you’re unwilling to part with."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Slowly it dawns on Matty what’s being asked of him."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "She’s already gone."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "But she’s not, is she? Not for you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "(eyes welling up)",
+                                " No. Don’t ask me to do that."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Matty looks like he’s about to break down."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Don’t take her from me."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor approaches him slowly, waiting for Matty to make eye contact. Finally he does. Matty’s a few breaths away from a full on panic attack."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "VISITOR",
+                            "modifier": null,
+                            "dialogue": [
+                                "It’s the only way."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The Visitor reaches out his hand, pausing right before touching Matty. He looks to Matty for some sort of consent."
+                            },
+                            {
+                                "text": "Matty gives him the smallest of nods. Do it. The Visitor TOUCHES Matty on the forehead."
+                            },
+                            {
+                                "text": "An INTENSE STREAM OF QUICK IMAGES. All of which involve Molly and Matty, or Matty grieving her death. They pass by too quickly to fully register any of them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 23,
+                "scene_info": {
+                    "region": "INT.",
+                    "location": "STARSHIP",
+                    "time": [
+                        "SAME"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "The last one is the two them in a field, holding hands. Then she blips out. It’s just Matty. Alone in the field."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TRANSITION",
+                        "content": {
+                            "text": "CUT TO BLACK.",
+                            "metadata": {
+                                "x": 420,
+                                "y": 120
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "scene_number": 24,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "TOWN",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "Beautiful, quiet. The UFO is gone. The water tower looming over the town is the only object in an otherwise empty sky."
+                            },
+                            {
+                                "text": "Matty pulls up to the diner. He gets out of his truck. Lilith walks outside to greet him."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "You’re not going to the barbecue?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Nah. I wanna hit the road before it gets too late."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "You know where you’re headed?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "Not yet. ",
+                                "(BEAT)",
+                                " I brought some things for you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He reaches into the bed of his truck and pulls out a small cardboard box."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "Not sure if you’ll want them, but I figured I’d ask."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He hands her the box. Inside, pictures of Molly. A woman’s sweater. The decorative urn from Matty’s altar."
+                            },
+                            {
+                                "text": "Lilith gasps."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "Matty..."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I know she meant a lot to you."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "She meant a lot to you too."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He looks at Lilith with sympathy."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I’m sure she did."
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "content": [
+            {
+                "scene_number": 24,
+                "scene_info": {
+                    "region": "EXT.",
+                    "location": "TOWN",
+                    "time": [
+                        "DAY"
+                    ]
+                },
+                "parts": [
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "He shifts uncomfortably as she looks through the box."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "If you don’t want it I can throw it out."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "No, I’ll take it."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She looks him over, a mix of pity and gratitude in her eyes."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH ",
+                            "modifier": "CONT’D",
+                            "dialogue": [
+                                "You really don’t remember."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "I know it happened. And I believe that I loved her. But it feels like it was someone else’s life. And I just wanna get on with my own."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "(trying to brighten)",
+                                " How about one last veggie burger for the road?"
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "That sounds great, Lil."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "LILITH",
+                            "modifier": null,
+                            "dialogue": [
+                                "I’ll bring it out."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "CHARACTER",
+                        "content": {
+                            "character": "MATTY",
+                            "modifier": null,
+                            "dialogue": [
+                                "(calling after her)",
+                                " You know what? Make it a cheeseburger. Medium well."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "ACTION",
+                        "content": [
+                            {
+                                "text": "She pauses, nods sadly and goes inside."
+                            },
+                            {
+                                "text": "Matty pulls out a cigarette and smokes, staring out at the town. It’s quiet. Peaceful. And then... Something strange happens to his face. Something we haven’t seen before."
+                            },
+                            {
+                                "text": "He smiles."
+                            },
+                            {
+                                "text": "THE END"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
